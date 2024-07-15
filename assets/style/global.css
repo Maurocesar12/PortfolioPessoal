@@ -10,9 +10,9 @@ body{
 .main{
     margin: .5rem;
     padding: .5rem;
-    border: 1px solid;
-    border-radius: 10px;
-    transition: width .3s, heigth .3s;
+    border: 2px solid;
+    border-radius: 12px;
+    transition: width .4s, heigth .4s;
     justify-content: center;
 }
 
