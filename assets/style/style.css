@@ -1,4 +1,16 @@
-
+.header{
+    align-items: center;
+    position: relative;
+}
+.header .photo{
+    width :192px;
+    height:192px;
+    border-radius: 50%;
+    position: absolute;
+    left: -250px; /* Começa fora da tela à esquerda */
+    transition: left 2s ease-in-out; /* Define a transição */
+    right: calc(20% - 40px);
+}
 
 .header{
     display: flex;
@@ -77,5 +89,30 @@
         grid-area: information;
 
     }
+}
+/* Layout para dispositivos móveis */
+@media only screen and (max-width: 767px) {
+    .header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        position: relative;
+    }
 
+    .header .photo {
+        width: 130px; /* Ajusta o tamanho da foto para telas pequenas */
+        height: 130px;
+        margin-bottom: 1rem; /* Espaço abaixo da foto */
+        position: relative; /* Remove a posição absoluta */
+        left: -150px; /* Remove a posição esquerda para flexbox */
+        transition: left 2s ease-in-out; /* Define a transição */
+    }
+
+    .header .title {
+        margin: 0.5rem 0; /* Espaçamento acima e abaixo do título */
+    }
+
+    .header .information {
+        margin-top: 2rem; /* Espaço acima das informações */
+    }
 }
