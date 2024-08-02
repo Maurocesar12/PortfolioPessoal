@@ -17,3 +17,12 @@ acordeonTriggers.forEach((trigger) => {
     })
 
 })
+
+window.addEventListener('load',() => {
+
+        const photo = document.querySelector('.header .photo');
+        if(photo) {
+            photo.style.left = '0';
+        }
+
+});
