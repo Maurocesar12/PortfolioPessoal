@@ -47,6 +47,6 @@ Se você deseja clonar este repositório e executá-lo localmente, siga estas et
 ## Contato
 Se você tiver interesse em colaborar ou saber mais sobre o meu trabalho, fique à vontade para me contatar pelos seguintes canais:
 
--**Likedin: Mauro César
--**E-mail: Mauroguima080@hotmail.com
--**Whatssap: 21-996562335
+- **Likedin**: Mauro César
+- **E-mail**: Mauroguima080@hotmail.com
+- **Whatssap**: 21-996562335
