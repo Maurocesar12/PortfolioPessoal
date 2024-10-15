@@ -22,11 +22,10 @@ O portfólio foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
 O portfólio contém as seguintes seções:
 
-1. **Home**: Apresentação inicial e links para navegação.
-2. **Sobre Mim**: Um resumo sobre minha trajetória, habilidades e experiência.
-3. **Meus Serviços**: Detalhamento dos serviços que ofereço, como automação de processos, desenvolvimento de sites e suporte de TI.
-4. **Projetos**: Exibição dos principais projetos que desenvolvi, com links para repositórios e demonstrações.
-5. **Contato**: Um formulário de contato integrado para clientes e interessados entrarem em contato facilmente.
+1. **Skilss**: Minhas ferramentas e meu principais principios profissional.
+2. **Idiomas**: Meu idiomas que tenho facilidade.
+3. **Projects**: Todos os meu projetos que realizei.
+4. **Experiencia Profissional**: Exibindo minhas experiencias na área de Suporte de TI.
 
 ## Destaques dos Projetos
 
@@ -43,6 +42,8 @@ Se você deseja clonar este repositório e executá-lo localmente, siga estas et
 1. Clone o repositório:
    ```bash
    git clone https://github.com/maurocesar12/PortfolioPessoal.git
+
+2. Entre no site: https://maurocesar12.github.io/PortfolioPessoal/
 
 ## Contato
 Se você tiver interesse em colaborar ou saber mais sobre o meu trabalho, fique à vontade para me contatar pelos seguintes canais:
